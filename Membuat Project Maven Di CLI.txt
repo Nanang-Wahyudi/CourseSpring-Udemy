@@ -1,0 +1,4 @@
+## MEMBUAT PROJECT MAVEN DI CLI
+
+
+mvn archetype:generate -DgroupId=com.example -DartifactId=book-catalog -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
